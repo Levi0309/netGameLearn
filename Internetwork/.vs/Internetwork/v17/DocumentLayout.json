@@ -1,17 +1,127 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProject\\Internetwork\\",
+  "WorkspaceRootPath": "D:\\myunity\\Internetwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|d:\\unityproject\\internetwork\\assets\\scripts\\manager\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\uipanel\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\UnityProject\\Internetwork\\assets\\uiframework\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\uipanel\\roompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\roompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\uipanel\\roomlistpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\roomlistpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|d:\\myunity\\internetwork\\assets\\scripts\\uipanel\\registerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\registerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\uipanel\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\uiframework\\base\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\uiframework\\base\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\uiframework\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\uiframework\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|d:\\unityproject\\internetwork\\assets\\uiframework\\manager\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\gamefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\manager\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|d:\\myunity\\internetwork\\assets\\scripts\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\net\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\request\\baserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\request\\baserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\manager\\requestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\requestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\uipanel\\messagepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\messagepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\net\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\uiframework\\uipanel\\uipaneltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\uiframework\\uipanel\\uipaneltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems6.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\myunity\\Internetwork\\Assets\\UIFramework\\Resources\\UIPanelType.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UIFramework\\Resources\\UIPanelType.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\uiframework\\extension\\dictionaryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\uiframework\\extension\\dictionaryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\myunity\\\u7D20\u6750\u3001\u6E90\u7801\u5DE5\u7A0B\u3001PPT\\\u300A\u4E1B\u6797\u6218\u4E89\u300B\u5BA2\u6237\u7AEF Unity\u5DE5\u7A0B\\JungleWarsClient\\Assets\\UIFramework\\Resources\\UIPanelType.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\uiframework\\uipanel\\uipanelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\uiframework\\uipanel\\uipanelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\uipanel\\roomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\roomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\uipanel\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uipanel\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\manager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\scripts\\manager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|D:\\myunity\\Internetwork\\assets\\uiframework\\manager\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56A97F6E-0244-7065-D819-BBDE896EDDD3}|Assembly-CSharp.csproj|solutionrelative:assets\\uiframework\\manager\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +132,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIFramework\\Manager\\UIManager.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIFramework\\Manager\\UIManager.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwHkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:28:13.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -42,42 +166,396 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "GameFacade.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\GameFacade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameFacade.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\GameFacade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameFacade.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:59:57.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RegisterPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\RegisterPanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RegisterPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\RegisterPanel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:53:05.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BaseManager.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Internetwork\\Assets\\Scripts\\Manager\\BaseManager.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\BaseManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\BaseManager.cs",
-              "ToolTip": "D:\\UnityProject\\Internetwork\\Assets\\Scripts\\Manager\\BaseManager.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\BaseManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Manager\\BaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:29:42.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameRoot.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Internetwork\\Assets\\UIFramework\\Manager\\GameRoot.cs",
-              "RelativeDocumentMoniker": "Assets\\UIFramework\\Manager\\GameRoot.cs",
-              "ToolTip": "D:\\UnityProject\\Internetwork\\Assets\\UIFramework\\Manager\\GameRoot.cs",
-              "RelativeToolTip": "Assets\\UIFramework\\Manager\\GameRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\AudioManager.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\AudioManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:28:29.896Z",
+              "WhenOpened": "2024-12-25T08:00:54.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Base\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\UIFramework\\Base\\BasePanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Base\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\UIFramework\\Base\\BasePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:54:10.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\LoginPanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\LoginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\LoginPanel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:52:49.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartPanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\StartPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\StartPanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\StartPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\StartPanel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:53:37.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Internetwork\\Assets\\UIFramework\\Manager\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\UIFramework\\Manager\\UIManager.cs",
-              "ToolTip": "D:\\UnityProject\\Internetwork\\Assets\\UIFramework\\Manager\\UIManager.cs",
-              "RelativeToolTip": "Assets\\UIFramework\\Manager\\UIManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Title": "RoomPanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RoomPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\RoomPanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RoomPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\RoomPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:28:13.765Z",
+              "WhenOpened": "2024-12-27T01:53:29.544Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomListPanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RoomListPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\RoomListPanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RoomListPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\RoomListPanel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:53:18.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Request\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Request\\RegisterRequest.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Request\\RegisterRequest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Request\\RegisterRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T01:33:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Net\\ClientManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\ClientManager.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Net\\ClientManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\ClientManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAewEQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:04:16.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseRequest.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Request\\BaseRequest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Request\\BaseRequest.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Request\\BaseRequest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Request\\BaseRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:08:18.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RequestManager.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\RequestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\RequestManager.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\RequestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\RequestManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAxwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:05:06.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessagePanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\MessagePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\MessagePanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\MessagePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\MessagePanel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:49:50.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Net\\Message.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\Message.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Net\\Message.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:25:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Request\\LoginRequest.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:12:24.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UIPanelType.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\UIPanel\\UIPanelType.cs",
+              "RelativeDocumentMoniker": "Assets\\UIFramework\\UIPanel\\UIPanelType.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\UIPanel\\UIPanelType.cs",
+              "RelativeToolTip": "Assets\\UIFramework\\UIPanel\\UIPanelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:57:46.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamItems6.json",
+              "DocumentMoniker": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems6.json",
+              "RelativeDocumentMoniker": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems6.json",
+              "ToolTip": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems6.json",
+              "RelativeToolTip": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems6.json",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T05:49:23.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UIPanelType.json",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "RelativeDocumentMoniker": "Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "RelativeToolTip": "Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T01:58:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExamItems5.json",
+              "DocumentMoniker": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems5.json",
+              "RelativeDocumentMoniker": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems5.json",
+              "ToolTip": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems5.json",
+              "RelativeToolTip": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems5.json",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T03:12:57.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DictionaryExtension.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Extension\\DictionaryExtension.cs",
+              "RelativeDocumentMoniker": "Assets\\UIFramework\\Extension\\DictionaryExtension.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Extension\\DictionaryExtension.cs",
+              "RelativeToolTip": "Assets\\UIFramework\\Extension\\DictionaryExtension.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T03:50:22.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UIPanelType.json",
+              "DocumentMoniker": "D:\\myunity\\\u7D20\u6750\u3001\u6E90\u7801\u5DE5\u7A0B\u3001PPT\\\u300A\u4E1B\u6797\u6218\u4E89\u300B\u5BA2\u6237\u7AEF Unity\u5DE5\u7A0B\\JungleWarsClient\\Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "RelativeDocumentMoniker": "..\\\u7D20\u6750\u3001\u6E90\u7801\u5DE5\u7A0B\u3001PPT\\\u300A\u4E1B\u6797\u6218\u4E89\u300B\u5BA2\u6237\u7AEF Unity\u5DE5\u7A0B\\JungleWarsClient\\Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "ToolTip": "D:\\myunity\\\u7D20\u6750\u3001\u6E90\u7801\u5DE5\u7A0B\u3001PPT\\\u300A\u4E1B\u6797\u6218\u4E89\u300B\u5BA2\u6237\u7AEF Unity\u5DE5\u7A0B\\JungleWarsClient\\Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "RelativeToolTip": "..\\\u7D20\u6750\u3001\u6E90\u7801\u5DE5\u7A0B\u3001PPT\\\u300A\u4E1B\u6797\u6218\u4E89\u300B\u5BA2\u6237\u7AEF Unity\u5DE5\u7A0B\\JungleWarsClient\\Assets\\UIFramework\\Resources\\UIPanelType.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T03:36:45.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UIPanelInfo.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\UIPanel\\UIPanelInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\UIFramework\\UIPanel\\UIPanelInfo.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\UIPanel\\UIPanelInfo.cs",
+              "RelativeToolTip": "Assets\\UIFramework\\UIPanel\\UIPanelInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:58:35.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomItem.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RoomItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\RoomItem.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\RoomItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\RoomItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:53:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GamePanel.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\GamePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanel\\GamePanel.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\UIPanel\\GamePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanel\\GamePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:52:34.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExamItems4.json",
+              "DocumentMoniker": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems4.json",
+              "RelativeDocumentMoniker": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems4.json",
+              "ToolTip": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems4.json",
+              "RelativeToolTip": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems4.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T03:23:36.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExamItems3.json",
+              "DocumentMoniker": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems3.json",
+              "RelativeDocumentMoniker": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems3.json",
+              "ToolTip": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems3.json",
+              "RelativeToolTip": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T03:18:44.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExamItems2.json",
+              "DocumentMoniker": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems2.json",
+              "RelativeDocumentMoniker": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems2.json",
+              "ToolTip": "D:\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems2.json",
+              "RelativeToolTip": "..\\..\\UnityProject\\yxyzyylxxnfz-tgrf\\Project\\NTGFR\\Assets\\StreamingAssets\\ExamItems2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T03:14:11.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\CameraManager.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\CameraManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:04:57.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\PlayerManager.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\Scripts\\Manager\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:05:03.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GameRoot.cs",
+              "DocumentMoniker": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Manager\\GameRoot.cs",
+              "RelativeDocumentMoniker": "Assets\\UIFramework\\Manager\\GameRoot.cs",
+              "ToolTip": "D:\\myunity\\Internetwork\\Assets\\UIFramework\\Manager\\GameRoot.cs",
+              "RelativeToolTip": "Assets\\UIFramework\\Manager\\GameRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:28:29.896Z"
             }
           ]
         }

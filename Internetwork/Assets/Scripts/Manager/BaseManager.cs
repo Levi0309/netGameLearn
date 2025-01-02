@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BaseManager {
-    public virtual void Init() { }
-    public virtual void Distroy() { }
+    protected GameFacade facade;    
+    public BaseManager(GameFacade facade)
+    {
+        this.facade = facade;
+    }
+    public virtual void OnInit() { }
+    public virtual void OnDestroy() { }
 }

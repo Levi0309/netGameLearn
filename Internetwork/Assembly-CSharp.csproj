@@ -58,52 +58,70 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Vortex.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Blur.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ContrastEnhance.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ScreenOverlay.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Quads.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Twirl.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\CameraMotionBlur.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\PostEffectsBase.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\SepiaTone.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\GamePanel.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ImageEffects.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\EdgeDetection.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ImageEffectBase.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Grayscale.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Blur.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\SunShafts.cs" />
+    <Compile Include="Assets\Scripts\Net\Message.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\PostEffectsHelper.cs" />
+    <Compile Include="Assets\UIFramework\Extension\DictionaryExtension.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
+    <Compile Include="Assets\Scripts\Manager\BaseManager.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\Bloom.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\BloomOptimized.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Antialiasing.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ContrastStretch.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\MotionBlur.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Fisheye.cs" />
+    <Compile Include="Assets\UIFramework\Base\BasePanel.cs" />
+    <Compile Include="Assets\UIFramework\UIPanel\UIPanelInfo.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\BloomAndFlares.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ScreenOverlay.cs" />
+    <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\BlurOptimized.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\BloomOptimized.cs" />
+    <Compile Include="Assets\Scripts\Request\BaseRequest.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\DepthOfField.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\NoiseAndScratches.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Triangles.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\GlobalFog.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\BloomAndFlares.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\CreaseShading.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\Tonemapping.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\NoiseAndGrain.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\SunShafts.cs" />
-    <Compile Include="Assets\Res\ImageEffects\Scripts\ImageEffects.cs" />
+    <Compile Include="Assets\Scripts\Manager\PlayerManager.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Twirl.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Quads.cs" />
     <Compile Include="Assets\Res\ImageEffects\Scripts\TiltShift.cs" />
-    <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
-    <Compile Include="Assets\UIFramework\Base\BasePanel.cs" />
-    <Compile Include="Assets\UIFramework\Manager\GameRoot.cs" />
-    <Compile Include="Assets\UIFramework\Extension\DictionaryExtension.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Grayscale.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Triangles.cs" />
     <Compile Include="Assets\UIFramework\UIPanel\UIPanelType.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\StartPanel.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\SepiaTone.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\LoginPanel.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ContrastEnhance.cs" />
+    <Compile Include="Assets\Scripts\Manager\CameraManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\MessagePanel.cs" />
+    <Compile Include="Assets\Scripts\Net\ClientManager.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\CameraMotionBlur.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\GlobalFog.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\RoomItem.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\PostEffectsBase.cs" />
+    <Compile Include="Assets\Scripts\Manager\RequestManager.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Tonemapping.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
+    <Compile Include="Assets\Scripts\Request\LoginRequest.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ImageEffectBase.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\RegisterPanel.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\NoiseAndGrain.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\UIFramework\Manager\UIManager.cs" />
-    <Compile Include="Assets\UIFramework\UIPanel\UIPanelInfo.cs" />
-    <Compile Include="Assets\Scripts\Manager\BaseManager.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\RoomPanel.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Vortex.cs" />
+    <Compile Include="Assets\UIFramework\Manager\GameRoot.cs" />
+    <Compile Include="Assets\Scripts\GameFacade.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\ContrastStretch.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\Fisheye.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\MotionBlur.cs" />
+    <Compile Include="Assets\Res\ImageEffects\Scripts\CreaseShading.cs" />
+    <Compile Include="Assets\Scripts\UIPanel\RoomListPanel.cs" />
+    <Compile Include="Assets\Scripts\Request\RegisterRequest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Res\ImageEffects\Shaders\Tonemapper.shader" />
@@ -111,18 +129,23 @@
     <None Include="Assets\Res\ImageEffects\Shaders\VortexEffect.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\NoiseAndGrain.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
+    <None Include="Assets\Demigiant\DOTween\DOTween43.xml" />
     <None Include="Assets\Res\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
     <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.dll" />
     <None Include="Assets\Res\ImageEffects\Shaders\VignettingShader.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+    <None Include="Assets\Demigiant\DOTween\DOTween46.xml" />
     <None Include="Assets\Res\ImageEffects\Shaders\SSAOShader.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
+    <None Include="Assets\Demigiant\DOTween\DOTween50.xml" />
     <None Include="Assets\Res\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\SunShaftsComposite.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\ConvertDepth.shader" />
+    <None Include="Assets\Demigiant\readme_DOTweenPro.txt" />
+    <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
     <None Include="Assets\Res\ImageEffects\Shaders\TwirlEffect.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
@@ -151,19 +174,23 @@
     <None Include="Assets\Demigiant\DOTween\DOTween.dll" />
     <None Include="Assets\Res\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+    <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.xml" />
     <None Include="Assets\Demigiant\DOTween\DOTween46.dll" />
     <None Include="Assets\Res\ImageEffects\Shaders\MotionBlur.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
     <None Include="Assets\Demigiant\DOTweenPro\DOTweenPro.dll" />
+    <None Include="Assets\Demigiant\DOTweenPro\readme.txt" />
     <None Include="Assets\Res\ImageEffects\Shaders\GrayscaleEffect.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+    <None Include="Assets\Demigiant\DOTweenPro\DOTweenPro.XML" />
     <None Include="Assets\Res\Map\Plugins &amp; Scripts\GeometryFXParticles_DEMO\Shaders\ParticleAlphaBlendStroke.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\BlendModesOverlay.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+    <None Include="Assets\Demigiant\DOTween\readme.txt" />
     <None Include="Assets\Res\ImageEffects\Shaders\EdgeDetectNormals.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
     <None Include="Assets\Res\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
@@ -508,6 +535,14 @@
       <HintPath>D:\Unity\2021.3.44f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Demigiant\DOTween\DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
@@ -516,12 +551,8 @@
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>Assets\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\Demigiant\DOTween\DOTween.dll</HintPath>
+    <Reference Include="Common">
+      <HintPath>Assets\Plugins\Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="DOTween46">

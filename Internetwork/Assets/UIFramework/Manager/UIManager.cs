@@ -40,9 +40,19 @@ public class UIManager:BaseManager {
     private Dictionary<UIPanelType, BasePanel> panelDict;//保存所有实例化面板的游戏物体身上的BasePanel组件
     private Stack<BasePanel> panelStack;
 
-    public UIManager()
+    private MessagePanel msgPanel;
+
+    public UIManager(GameFacade facade) : base(facade)
     {
         ParseUIPanelTypeJson();
+    }
+
+    public override void OnInit()
+    {
+        base.OnInit();
+        PushPanel(UIPanelType.Message);
+        PushPanel(UIPanelType.Start);
+        
     }
 
     /// <summary>
@@ -72,13 +82,13 @@ public class UIManager:BaseManager {
         if (panelStack == null)
             panelStack = new Stack<BasePanel>();
 
-        if (panelStack.Count <= 0) return;
+        if (panelStack.Count <= 0) return;//如果此时没有界面就直接返回
 
         //关闭栈顶页面的显示
-        BasePanel topPanel = panelStack.Pop();
+        BasePanel topPanel = panelStack.Pop();//此时有界面就把栈顶界面移除 栈顶界面就会退出
         topPanel.OnExit();
 
-        if (panelStack.Count <= 0) return;
+        if (panelStack.Count <= 0) return;//如果此时还有界面 就恢复上一个界面 且不移出栈
         BasePanel topPanel2 = panelStack.Peek();
         topPanel2.OnResume();
 
@@ -108,6 +118,8 @@ public class UIManager:BaseManager {
             string path = panelPathDict.TryGet(panelType);
             GameObject instPanel = GameObject.Instantiate(Resources.Load(path)) as GameObject;
             instPanel.transform.SetParent(CanvasTransform,false);
+            instPanel.GetComponent<BasePanel>().UIMgr = this;
+            instPanel.GetComponent<BasePanel>().GameFacade = facade;
             panelDict.Add(panelType, instPanel.GetComponent<BasePanel>());
             return instPanel.GetComponent<BasePanel>();
         }
@@ -137,14 +149,33 @@ public class UIManager:BaseManager {
             panelPathDict.Add(info.panelType, info.path);
         }
     }
-
-    /// <summary>
-    /// just for test
-    /// </summary>
-    public void Test()
+    public void InjectMsgPanel(MessagePanel msgPanel)
     {
-        string path ;
-        panelPathDict.TryGetValue(UIPanelType.Knapsack,out path);
-        Debug.Log(path);
+        this.msgPanel = msgPanel;
     }
+    public void ShowMessage(string msg) 
+    {
+        if (msgPanel==null)
+        {
+            Debug.Log("无法提示信息message面板为空");return;
+        }
+        msgPanel.ShowMessage(msg);
+    }
+    public void ShowMessageAsync(string msg)
+    {
+        if (msgPanel == null)
+        {
+            Debug.Log("无法提示信息message面板为空"); return;
+        }
+        msgPanel.ShowMessageSync(msg);
+    }
+    ///// <summary>
+    ///// just for test
+    ///// </summary>
+    //public void Test()
+    //{
+    //    string path ;
+    //    panelPathDict.TryGetValue(UIPanelType.Knapsack,out path);
+    //    Debug.Log(path);
+    //}
 }
